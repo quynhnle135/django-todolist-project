@@ -54,41 +54,41 @@ python3 manage.py runserver
 
 User Registration
 
-![register.png](..%2F..%2FDesktop%2Fregister.png)
+![register.png](screenshots%2Fregister.png)
 
 User Login
 
-![login.png](..%2F..%2FDesktop%2Flogin.png)
+![login.png](screenshots%2Flogin.png)
 
 After User Logged In
 
-![user logged in.png](..%2F..%2FDesktop%2Fuser%20logged%20in.png)
+![user logged in.png](screenshots%2Fuser%20logged%20in.png)
 
 Add Tasks
 
-![add task.png](..%2F..%2FDesktop%2Fadd%20task.png)
+![add task.png](screenshots%2Fadd%20task.png)
 
 Task List
 
-![task list.png](..%2F..%2FDesktop%2Ftask%20list.png)
+![task list.png](screenshots%2Ftask%20list.png)
 
 Task Detail
 
-![task detail.png](..%2F..%2FDesktop%2Ftask%20detail.png)
+![task detail.png](screenshots%2Ftask%20detail.png)
 
 Update Task
 
-![task update.png](..%2F..%2FDesktop%2Ftask%20update.png)
+![task update.png](screenshots%2Ftask%20update.png)
 
 Tasks are updated and crossing finished tasks
 
-![task updated and crossed out.png](..%2F..%2FDesktop%2Ftask%20updated%20and%20crossed%20out.png)
+![task updated and crossed out.png](screenshots%2Ftask%20updated%20and%20crossed%20out.png)
 
 Search Tasks (for example: Tasks that start with letter W)
 
-![search task.png](..%2F..%2FDesktop%2Fsearch%20task.png)
+![search task.png](screenshots%2Fsearch%20task.png)
 
 Delete Task 
 
-![confim delete.png](..%2F..%2FDesktop%2Fconfim%20delete.png)
+![confim delete.png](screenshots%2Fconfim%20delete.png)
 
