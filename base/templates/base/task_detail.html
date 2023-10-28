@@ -1,0 +1,16 @@
+{% extends "base/main.html" %}
+{% block content %}
+
+<div class="header-bar">
+    <a href="{% url 'task-list' %}">Go back</a>
+</div>
+<div class="card-body">
+    <h1>Task Detail</h1>
+    <h3>Title: {{task.title}}</h3>
+    <h3>Description: {{task.description}}</h3>
+    <h3>Completed status: {{task.completed}}</h3>
+    <a style="text-decoration:none; color: green; padding: 0px" href="{% url 'task-update' task.id %}">Update</a>
+    <a style="text-decoration:none; color: red; padding: 20px;" href="{% url 'task-delete' task.id %}">Delete</a>
+</div>
+
+{% endblock content %}
